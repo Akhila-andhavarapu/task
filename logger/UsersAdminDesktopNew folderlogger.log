@@ -1,0 +1,38 @@
+2020-02-24 20:14:09,824 INFO  App:11 - Hello World!
+2020-02-24 20:28:24,489 INFO  Exe:13 - Enter the amount : 
+2020-02-24 20:28:32,294 INFO  Exe:15 - Enter the number of years : 
+2020-02-24 20:28:38,693 INFO  Exe:17 - Enter the rate of interest : 
+2020-02-24 20:28:43,219 INFO  Exe:21 - Simple Interest :10400.0
+2020-02-24 20:28:43,219 INFO  Exe:22 - Compound Interest :10004.000399999999
+2020-02-24 20:28:43,219 INFO  Exe:24 - -----------------------------------------
+2020-02-24 20:28:43,220 INFO  Exe:25 - 1.Standard material
+2020-02-24 20:28:43,220 INFO  Exe:26 - 2.Above standard material
+2020-02-24 20:28:43,262 INFO  Exe:27 - 3.High standard material
+2020-02-24 20:28:43,262 INFO  Exe:28 - 4.Automated home
+2020-02-24 20:28:43,263 INFO  Exe:29 - Enter your choice : 
+2020-02-24 20:28:54,527 ERROR Default:89 - Enter valid choice 
+2020-02-24 20:52:25,619 INFO  Exe:13 - Enter the amount : 
+2020-02-24 20:52:31,432 INFO  Exe:15 - Enter the number of years : 
+2020-02-24 20:52:32,732 INFO  Exe:17 - Enter the rate of interest : 
+2020-02-24 20:52:35,578 INFO  Exe:21 - Simple Interest :10400.0
+2020-02-24 20:52:35,578 INFO  Exe:22 - Compound Interest :10004.000399999999
+2020-02-24 20:52:35,579 INFO  Exe:24 - -----------------------------------------
+2020-02-24 20:52:35,580 INFO  Exe:25 - 1.Standard material
+2020-02-24 20:52:35,580 INFO  Exe:26 - 2.Above standard material
+2020-02-24 20:52:35,581 INFO  Exe:27 - 3.High standard material
+2020-02-24 20:52:35,581 INFO  Exe:28 - 4.Automated home
+2020-02-24 20:52:35,581 INFO  Exe:29 - Enter your choice : 
+2020-02-24 20:52:39,636 ERROR Standard:79 - Enter valid choice 
+2020-02-24 20:53:07,098 INFO  Exe:13 - Enter the amount : 
+2020-02-24 20:53:13,028 INFO  Exe:15 - Enter the number of years : 
+2020-02-24 20:53:14,936 INFO  Exe:17 - Enter the rate of interest : 
+2020-02-24 20:53:17,738 INFO  Exe:21 - Simple Interest :10400.0
+2020-02-24 20:53:17,738 INFO  Exe:22 - Compound Interest :10004.000399999999
+2020-02-24 20:53:17,739 INFO  Exe:24 - -----------------------------------------
+2020-02-24 20:53:17,739 INFO  Exe:25 - 1.Standard material
+2020-02-24 20:53:17,739 INFO  Exe:26 - 2.Above standard material
+2020-02-24 20:53:17,739 INFO  Exe:27 - 3.High standard material
+2020-02-24 20:53:17,740 INFO  Exe:28 - 4.Automated home
+2020-02-24 20:53:17,740 INFO  Exe:29 - Enter your choice : 
+2020-02-24 20:53:22,364 ERROR Standard:79 - Enter a valid choice 
+2020-02-24 21:05:16,102 INFO  Exe:13 - Enter the amount : 
